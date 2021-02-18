@@ -2,7 +2,7 @@
 
 body, html{
     height: 100%;
-    margin: 5;
+    margin: 0;
     font-family: 'Roboto Condensed', sans-serif;
     line-height: 90%;
     color: #444;
@@ -10,7 +10,7 @@ body, html{
 }
 .foto1{
     background-image: url(images/foto1.jpg);
-    min-height: 80%;
+    min-height: 60%;
 }
 .foto2{
     background-image: url(images/foto2.jpg);
@@ -18,11 +18,11 @@ body, html{
 }
 .foto3{
     background-image: url(images/foto3.jpg);
-    min-height: 75%;
+    min-height: 50%;
 }
 .foto4{
     background-image: url(images/foto4.jpg);
-    min-height: 70%;
+    min-height: 45%;
 }
 .foto1, .foto2, .foto3, .foto4{
     position: relative;
