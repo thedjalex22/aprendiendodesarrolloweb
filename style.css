@@ -78,3 +78,6 @@ body, html{
         font-size: 200%;
     }
 }
+.footer {
+    text-shadow: o o 10px #000;
+}
