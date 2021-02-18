@@ -22,7 +22,7 @@ body, html{
 }
 .foto4{
     background-image: url(images/foto4.jpg);
-    min-height: 45%;
+    min-height: 100%;
 }
 .foto1, .foto2, .foto3, .foto4{
     position: relative;
