@@ -4,7 +4,7 @@ body, html{
     height: 100%;
     margin: 5;
     font-family: 'Roboto Condensed', sans-serif;
-    line-height: 100%;
+    line-height: 90%;
     color: #444;
     text-align: center;
 }
@@ -79,5 +79,5 @@ body, html{
     }
 }
 .footer {
-    text-shadow: o o 10px #000;
+    text-shadow: 10px #000;
 }
